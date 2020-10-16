@@ -163,7 +163,7 @@ If you have an Urbit ID, you'll use the [Bridge](https://bridge.urbit.org) clien
 Tlon doesn't currently sell or distribute Urbit IDs, but there are a few ways to get your own:
 
 - Getting an invitation from a friend
-- Purchasing an Urbit ID from a third party, such as [urbit.live](https://urbit.live), [OpenSea](https://opensea.io), [planet.market](https://planet.market/), or [Urbit Marketplace](https://urbitmarketplace.com/).
+- Purchasing an Urbit ID from a third party, such as [geturbitid.com](https://www.geturbitid.com/), [urbit.live](https://urbit.live), [OpenSea](https://opensea.io), [planet.market](https://planet.market/), or [Urbit Marketplace](https://urbitmarketplace.com/).
 
 Note that when you buy a planet, you should ensure with the provider that the star is operating. If you already have a planet and need to escape a non-operational star, see [Escaping A Sponsor](@/using/operations/using-your-ship.md#escape).
 
